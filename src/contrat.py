@@ -1,4 +1,4 @@
-# Première idée : ajouter une fonction
+# Première modification : ajouter une fonction
 def calculer_total(prix, quantite):
     return prix * quantite
 
